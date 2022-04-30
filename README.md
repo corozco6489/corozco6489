@@ -9,8 +9,8 @@
 
 - Follow me🙏
 
-<img src="https://github-readme-stats.vercel.app/api?username=orozcocarlos&hide_border=true&show_icons=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-
+[<img src="https://github-readme-stats.vercel.app/api?username=orozcocarlos&hide_border=true&show_icons=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+](url)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orozcocarlos&hide_border=true&show_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/corozco6489/github-readme-stats)
 
